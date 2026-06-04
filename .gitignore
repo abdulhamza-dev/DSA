@@ -1,5 +1,19 @@
+# Ignore compiled binaries and temporary build files
 *.exe
 *.obj
 *.o
 *.log
+*.pch
+*.pdb
+*.ilk
+*.cache
+
+# Visual Studio and editor settings
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Temporary Code Runner files
+tempCodeRunnerFile.cpp
 

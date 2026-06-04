@@ -1,2 +1,2 @@
 
-for(int i = 1; i <
+    cout << "input the number: ";
