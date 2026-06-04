@@ -1,2 +1,1 @@
-
-    cout << "input the number: ";
+d
